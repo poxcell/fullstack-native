@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fullstack-native",
-    "slug": "fullstack-native",
+    "name": "fullstack-native-01",
+    "slug": "fullstack-native-01",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
